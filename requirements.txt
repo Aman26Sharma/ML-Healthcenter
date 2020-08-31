@@ -53,9 +53,6 @@ python-dateutil==2.8.1
 pytz==2020.1
 PyYAML==5.3.1
 pyzmq==19.0.1
-QDarkStyle==2.8.1
-QtAwesome==0.7.2
-QtPy==1.9.0
 requests-oauthlib==1.3.0
 rope==0.17.0
 six==1.15.0
@@ -68,8 +65,8 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 tensorboard==2.2.1
-tensorflow==1.15
-tensorflow-estimator==2.1.0
+tensorflow==1.1
+tensorflow-estimator==1.1.0
 termcolor==1.1.0
 testpath==0.4.4
 tornado==6.0.4
@@ -78,7 +75,6 @@ typed-ast==1.4.1
 ujson==1.35
 webencodings==0.5.1
 Werkzeug==1.0.1
-win-inet-pton==1.1.0
 wincertstore==0.2
 wrapt==1.11.2
 zipp==3.1.0
