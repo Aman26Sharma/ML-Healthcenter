@@ -1,5 +1,5 @@
 # ML-Healthcenter
-In this project, I have developed a disease predicting app consisting of 5 diseases, trained using both Machine Learning(4 diseases) and Deep Learning(1 disease). The project is deployed using Heroku. As this project is made from the scratch till deployment using both Machine Learning and Deep Learning concepts, It has given me a lot of insight and knowledge on various topics.
+In this project, I have developed a disease predicting app consisting of 5 diseases, trained using both Machine Learning(4 diseases) and Deep Learning(1 disease). The project is deployed using Heroku. As this project is made from the scratch till deployment using both Machine Learning and Deep Learning concepts, It has given me a lot of insight and knowledge on various topics. Accuracies of all models is calculated using k fold cross validation.
 ____________________________________________________________________________________________________________________________________________________________________________
 ### Breast Cancer
 * Dataset -> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
@@ -43,6 +43,6 @@ ________________________________________________________________________________
 * You can access the project live from here -> https://ml-healthcare.herokuapp.com/
 _______________________________________________________________________________________________________________________________________________________________________________
 ### Working of app
-![](static/1.JPEG)
-![](static/2.JPEG)
-![](static/3.JPEG)
+![](static/1.JPG)
+![](static/2.JPG)
+![](static/3.JPG)
